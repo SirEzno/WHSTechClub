@@ -1,0 +1,229 @@
+    0.003 D <> Log initialized.
+    0.004 D "MultiMC 5" , (c) 2013-2023  "MultiMC Contributors"
+    0.004 D Version                    :  "0.7.0-3775"
+    0.004 D Git commit                 :  "33a8b916a1baa46026681101ab870cb0a0684fa5"
+    0.004 D Git refspec                :  "refs/heads/develop"
+    0.004 D Work dir before adjustment :  "C:/Users/chris/Desktop/Tech Club/Games/MultiMC (Minecraft)"
+    0.004 D Work dir after adjustment  :  "C:/Users/chris/Desktop/Tech Club/Games/MultiMC (Minecraft)"
+    0.004 D Adjusted by                :  "Fallback to binary path C:/Users/chris/Desktop/Tech Club/Games/MultiMC (Minecraft)"
+    0.004 D Binary path                :  "C:/Users/chris/Desktop/Tech Club/Games/MultiMC (Minecraft)"
+    0.004 D Application root path      :  "C:/Users/chris/Desktop/Tech Club/Games/MultiMC (Minecraft)"
+    0.004 D <> Paths set.
+    0.006 D Detected default console font: "Courier" , substitutions: ""
+    0.006 D <> Settings loaded.
+    0.007 D Detecting proxy settings...
+    0.007 D Using no proxy is an option!
+    0.007 D <> Network done.
+    0.008 D Your language is "en_US"
+    0.008 D <> Translations loaded.
+    0.008 D Initializing updater with platform:  "win32"  --  "https://files.multimc.org/update/win32/channels.json"
+    0.008 D <> Updater started.
+    0.009 D Started watching  "C:/Users/chris/Desktop/Tech Club/Games/MultiMC (Minecraft)/icons"
+    0.009 D <> Instance icons intialized.
+    0.010 D <> Icon themes initialized.
+    0.010 D Determining System Theme...
+    0.010 D System theme seems to be: "windowsvista"
+    0.010 D Considering theme from theme factory: "windows"
+    0.010 D Considering theme from theme factory: "windowsxp"
+    0.010 D Considering theme from theme factory: "windowsvista"
+    0.010 D System theme has been determined to be: "WindowsVista"
+    0.010 D Loading theme "custom"
+    0.011 D <> Widget themes initialized.
+    0.011 D Instance path              :  "instances"
+    0.011 D Loading Instances...
+    0.011 D Discovering instances in "C:/Users/chris/Desktop/Tech Club/Games/MultiMC (Minecraft)/instances"
+    0.012 D <> Instances loaded.
+    0.012 D Loading accounts...
+    0.012 C "Failed to read the account list file (accounts.json)."
+    0.012 D <> Accounts loaded.
+    0.012 D <> Cache initialized.
+    0.012 D Downloading Translations Index...
+    0.012 D Task "NetJob(Translations Index)" starting for the first time
+    0.023 D <> Icon theme set.
+    0.023 D <> Application theme set.
+    0.023 D Analytics info not seen by user yet (or old version).
+    0.043 D Task "JavaListLoadTask(0x329f2e8)" starting for the first time
+    0.043 D Probing the following Java paths: 
+    0.043 D   "C:/Program Files/Java/jre8/bin/javaw.exe"
+    0.043 D   "C:/Program Files/Java/jre7/bin/javaw.exe"
+    0.043 D   "C:/Program Files/Java/jre6/bin/javaw.exe"
+    0.043 D   "C:/Program Files/AdoptOpenJDK/jdk-11.0.11.9-hotspot/bin/javaw.exe"
+    0.043 D   "C:/Program Files (x86)/Java/jre8/bin/javaw.exe"
+    0.043 D   "C:/Program Files (x86)/Java/jre7/bin/javaw.exe"
+    0.043 D   "C:/Program Files (x86)/Java/jre6/bin/javaw.exe"
+    0.043 D   "javaw"
+    0.043 D Task "JavaCheckerJob(0x329f358)" starting for the first time
+    0.043 D "Java detection"  started.
+    0.043 D Env: ignoring "JAVA_HOME" "C:\\Program Files (x86)\\AdoptOpenJDK\\jdk-8.0.292.10-hotspot\\"
+    0.043 D "Running java checker: C:/Program Files/Java/jre8/bin/javaw.exe-jar C:/Users/chris/Desktop/Tech Club/Games/MultiMC (Minecraft)/jars/JavaCheck.jar"
+    0.044 D Java checker has failed to start.
+    0.044 D Process environment:
+    0.044 D ("TEMP=C:\\Users\\chris\\AppData\\Local\\Temp", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "COMPUTERNAME=DESKTOP-ILUSB6N", "HOMEPATH=\\Users\\chris", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-ILUSB6N", "ALLUSERSPROFILE=C:\\ProgramData", "ProgramW6432=C:\\Program Files", "ComSpec=C:\\Windows\\system32\\cmd.exe", "OneDriveConsumer=C:\\Users\\chris\\OneDrive", "PROCESSOR_LEVEL=23", "PROCESSOR_REVISION=7100", "windir=C:\\Windows", "NUMBER_OF_PROCESSORS=16", "APPDATA=C:\\Users\\chris\\AppData\\Roaming", "TMP=C:\\Users\\chris\\AppData\\Local\\Temp", "=::=::\\", "ProgramFiles=C:\\Program Files (x86)", "SystemDrive=C:", "LOCALAPPDATA=C:\\Users\\chris\\AppData\\Local", "USERDOMAIN=DESKTOP-ILUSB6N", "QtMsBuild=C:\\Users\\chris\\AppData\\Local\\QtMsBuild", "PROCESSOR_ARCHITEW6432=AMD64", "OneDrive=C:\\Users\\chris\\OneDrive", "HOMEDRIVE=C:", "PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD", "Path=C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\AdoptOpenJDK\\jdk-8.0.292.10-hotspot\\bin;C:\\Program Files\\AdoptOpenJDK\\jdk-11.0.11.9-hotspot\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Python39\\Scripts;C:\\Program Files\\Git\\cmd;C:\\Program Files\\dotnet\\;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\chris\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Python39\\Scripts;C:\\Users\\chris\\AppData\\Local\\GitHubDesktop\\bin", "PUBLIC=C:\\Users\\Public", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "OS=Windows_NT", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "ProgramData=C:\\ProgramData", "PROCESSOR_ARCHITECTURE=x86", "SESSIONNAME=Console", "USERPROFILE=C:\\Users\\chris", "USERNAME=chris", "CommonProgramW6432=C:\\Program Files\\Common Files", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "ProgramFiles(x86)=C:\\Program Files (x86)", "LOGONSERVER=\\\\DESKTOP-ILUSB6N", "SystemRoot=C:\\Windows")
+    0.044 D Native environment:
+    0.044 D ("TEMP=C:\\Users\\chris\\AppData\\Local\\Temp", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "COMPUTERNAME=DESKTOP-ILUSB6N", "HOMEPATH=\\Users\\chris", "ALLUSERSPROFILE=C:\\ProgramData", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-ILUSB6N", "ProgramW6432=C:\\Program Files", "ComSpec=C:\\Windows\\system32\\cmd.exe", "OneDriveConsumer=C:\\Users\\chris\\OneDrive", "PROCESSOR_LEVEL=23", "PROCESSOR_REVISION=7100", "windir=C:\\Windows", "NUMBER_OF_PROCESSORS=16", "APPDATA=C:\\Users\\chris\\AppData\\Roaming", "TMP=C:\\Users\\chris\\AppData\\Local\\Temp", "=::=::\\", "ProgramFiles=C:\\Program Files (x86)", "SystemDrive=C:", "LOCALAPPDATA=C:\\Users\\chris\\AppData\\Local", "USERDOMAIN=DESKTOP-ILUSB6N", "QtMsBuild=C:\\Users\\chris\\AppData\\Local\\QtMsBuild", "PROCESSOR_ARCHITEW6432=AMD64", "OneDrive=C:\\Users\\chris\\OneDrive", "HOMEDRIVE=C:", "PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD", "Path=C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\AdoptOpenJDK\\jdk-8.0.292.10-hotspot\\bin;C:\\Program Files\\AdoptOpenJDK\\jdk-11.0.11.9-hotspot\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Python39\\Scripts;C:\\Program Files\\Git\\cmd;C:\\Program Files\\dotnet\\;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\chris\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Python39\\Scripts;C:\\Users\\chris\\AppData\\Local\\GitHubDesktop\\bin", "PUBLIC=C:\\Users\\Public", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "OS=Windows_NT", "JAVA_HOME=C:\\Program Files (x86)\\AdoptOpenJDK\\jdk-8.0.292.10-hotspot\\", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "ProgramData=C:\\ProgramData", "PROCESSOR_ARCHITECTURE=x86", "SESSIONNAME=Console", "USERPROFILE=C:\\Users\\chris", "CommonProgramW6432=C:\\Program Files\\Common Files", "USERNAME=chris", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "ProgramFiles(x86)=C:\\Program Files (x86)", "LOGONSERVER=\\\\DESKTOP-ILUSB6N", "SystemRoot=C:\\Windows")
+    0.044 D "Java detection" progress: 1 / 8
+    0.044 D Env: ignoring "JAVA_HOME" "C:\\Program Files (x86)\\AdoptOpenJDK\\jdk-8.0.292.10-hotspot\\"
+    0.044 D "Running java checker: C:/Program Files/Java/jre7/bin/javaw.exe-jar C:/Users/chris/Desktop/Tech Club/Games/MultiMC (Minecraft)/jars/JavaCheck.jar"
+    0.044 D Java checker has failed to start.
+    0.044 D Process environment:
+    0.044 D ("TEMP=C:\\Users\\chris\\AppData\\Local\\Temp", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "COMPUTERNAME=DESKTOP-ILUSB6N", "HOMEPATH=\\Users\\chris", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-ILUSB6N", "ALLUSERSPROFILE=C:\\ProgramData", "ProgramW6432=C:\\Program Files", "ComSpec=C:\\Windows\\system32\\cmd.exe", "OneDriveConsumer=C:\\Users\\chris\\OneDrive", "PROCESSOR_LEVEL=23", "PROCESSOR_REVISION=7100", "windir=C:\\Windows", "NUMBER_OF_PROCESSORS=16", "APPDATA=C:\\Users\\chris\\AppData\\Roaming", "TMP=C:\\Users\\chris\\AppData\\Local\\Temp", "=::=::\\", "ProgramFiles=C:\\Program Files (x86)", "SystemDrive=C:", "LOCALAPPDATA=C:\\Users\\chris\\AppData\\Local", "USERDOMAIN=DESKTOP-ILUSB6N", "QtMsBuild=C:\\Users\\chris\\AppData\\Local\\QtMsBuild", "PROCESSOR_ARCHITEW6432=AMD64", "OneDrive=C:\\Users\\chris\\OneDrive", "HOMEDRIVE=C:", "PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD", "Path=C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\AdoptOpenJDK\\jdk-8.0.292.10-hotspot\\bin;C:\\Program Files\\AdoptOpenJDK\\jdk-11.0.11.9-hotspot\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Python39\\Scripts;C:\\Program Files\\Git\\cmd;C:\\Program Files\\dotnet\\;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\chris\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Python39\\Scripts;C:\\Users\\chris\\AppData\\Local\\GitHubDesktop\\bin", "PUBLIC=C:\\Users\\Public", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "OS=Windows_NT", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "ProgramData=C:\\ProgramData", "PROCESSOR_ARCHITECTURE=x86", "SESSIONNAME=Console", "USERPROFILE=C:\\Users\\chris", "USERNAME=chris", "CommonProgramW6432=C:\\Program Files\\Common Files", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "ProgramFiles(x86)=C:\\Program Files (x86)", "LOGONSERVER=\\\\DESKTOP-ILUSB6N", "SystemRoot=C:\\Windows")
+    0.044 D Native environment:
+    0.044 D ("TEMP=C:\\Users\\chris\\AppData\\Local\\Temp", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "COMPUTERNAME=DESKTOP-ILUSB6N", "HOMEPATH=\\Users\\chris", "ALLUSERSPROFILE=C:\\ProgramData", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-ILUSB6N", "ProgramW6432=C:\\Program Files", "ComSpec=C:\\Windows\\system32\\cmd.exe", "OneDriveConsumer=C:\\Users\\chris\\OneDrive", "PROCESSOR_LEVEL=23", "PROCESSOR_REVISION=7100", "windir=C:\\Windows", "NUMBER_OF_PROCESSORS=16", "APPDATA=C:\\Users\\chris\\AppData\\Roaming", "TMP=C:\\Users\\chris\\AppData\\Local\\Temp", "=::=::\\", "ProgramFiles=C:\\Program Files (x86)", "SystemDrive=C:", "LOCALAPPDATA=C:\\Users\\chris\\AppData\\Local", "USERDOMAIN=DESKTOP-ILUSB6N", "QtMsBuild=C:\\Users\\chris\\AppData\\Local\\QtMsBuild", "PROCESSOR_ARCHITEW6432=AMD64", "OneDrive=C:\\Users\\chris\\OneDrive", "HOMEDRIVE=C:", "PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD", "Path=C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\AdoptOpenJDK\\jdk-8.0.292.10-hotspot\\bin;C:\\Program Files\\AdoptOpenJDK\\jdk-11.0.11.9-hotspot\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Python39\\Scripts;C:\\Program Files\\Git\\cmd;C:\\Program Files\\dotnet\\;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\chris\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Python39\\Scripts;C:\\Users\\chris\\AppData\\Local\\GitHubDesktop\\bin", "PUBLIC=C:\\Users\\Public", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "OS=Windows_NT", "JAVA_HOME=C:\\Program Files (x86)\\AdoptOpenJDK\\jdk-8.0.292.10-hotspot\\", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "ProgramData=C:\\ProgramData", "PROCESSOR_ARCHITECTURE=x86", "SESSIONNAME=Console", "USERPROFILE=C:\\Users\\chris", "CommonProgramW6432=C:\\Program Files\\Common Files", "USERNAME=chris", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "ProgramFiles(x86)=C:\\Program Files (x86)", "LOGONSERVER=\\\\DESKTOP-ILUSB6N", "SystemRoot=C:\\Windows")
+    0.044 D "Java detection" progress: 2 / 8
+    0.045 D Env: ignoring "JAVA_HOME" "C:\\Program Files (x86)\\AdoptOpenJDK\\jdk-8.0.292.10-hotspot\\"
+    0.045 D "Running java checker: C:/Program Files/Java/jre6/bin/javaw.exe-jar C:/Users/chris/Desktop/Tech Club/Games/MultiMC (Minecraft)/jars/JavaCheck.jar"
+    0.045 D Java checker has failed to start.
+    0.045 D Process environment:
+    0.045 D ("TEMP=C:\\Users\\chris\\AppData\\Local\\Temp", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "COMPUTERNAME=DESKTOP-ILUSB6N", "HOMEPATH=\\Users\\chris", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-ILUSB6N", "ALLUSERSPROFILE=C:\\ProgramData", "ProgramW6432=C:\\Program Files", "ComSpec=C:\\Windows\\system32\\cmd.exe", "OneDriveConsumer=C:\\Users\\chris\\OneDrive", "PROCESSOR_LEVEL=23", "PROCESSOR_REVISION=7100", "windir=C:\\Windows", "NUMBER_OF_PROCESSORS=16", "APPDATA=C:\\Users\\chris\\AppData\\Roaming", "TMP=C:\\Users\\chris\\AppData\\Local\\Temp", "=::=::\\", "ProgramFiles=C:\\Program Files (x86)", "SystemDrive=C:", "LOCALAPPDATA=C:\\Users\\chris\\AppData\\Local", "USERDOMAIN=DESKTOP-ILUSB6N", "QtMsBuild=C:\\Users\\chris\\AppData\\Local\\QtMsBuild", "PROCESSOR_ARCHITEW6432=AMD64", "OneDrive=C:\\Users\\chris\\OneDrive", "HOMEDRIVE=C:", "PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD", "Path=C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\AdoptOpenJDK\\jdk-8.0.292.10-hotspot\\bin;C:\\Program Files\\AdoptOpenJDK\\jdk-11.0.11.9-hotspot\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Python39\\Scripts;C:\\Program Files\\Git\\cmd;C:\\Program Files\\dotnet\\;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\chris\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Python39\\Scripts;C:\\Users\\chris\\AppData\\Local\\GitHubDesktop\\bin", "PUBLIC=C:\\Users\\Public", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "OS=Windows_NT", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "ProgramData=C:\\ProgramData", "PROCESSOR_ARCHITECTURE=x86", "SESSIONNAME=Console", "USERPROFILE=C:\\Users\\chris", "USERNAME=chris", "CommonProgramW6432=C:\\Program Files\\Common Files", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "ProgramFiles(x86)=C:\\Program Files (x86)", "LOGONSERVER=\\\\DESKTOP-ILUSB6N", "SystemRoot=C:\\Windows")
+    0.045 D Native environment:
+    0.045 D ("TEMP=C:\\Users\\chris\\AppData\\Local\\Temp", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "COMPUTERNAME=DESKTOP-ILUSB6N", "HOMEPATH=\\Users\\chris", "ALLUSERSPROFILE=C:\\ProgramData", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-ILUSB6N", "ProgramW6432=C:\\Program Files", "ComSpec=C:\\Windows\\system32\\cmd.exe", "OneDriveConsumer=C:\\Users\\chris\\OneDrive", "PROCESSOR_LEVEL=23", "PROCESSOR_REVISION=7100", "windir=C:\\Windows", "NUMBER_OF_PROCESSORS=16", "APPDATA=C:\\Users\\chris\\AppData\\Roaming", "TMP=C:\\Users\\chris\\AppData\\Local\\Temp", "=::=::\\", "ProgramFiles=C:\\Program Files (x86)", "SystemDrive=C:", "LOCALAPPDATA=C:\\Users\\chris\\AppData\\Local", "USERDOMAIN=DESKTOP-ILUSB6N", "QtMsBuild=C:\\Users\\chris\\AppData\\Local\\QtMsBuild", "PROCESSOR_ARCHITEW6432=AMD64", "OneDrive=C:\\Users\\chris\\OneDrive", "HOMEDRIVE=C:", "PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD", "Path=C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\AdoptOpenJDK\\jdk-8.0.292.10-hotspot\\bin;C:\\Program Files\\AdoptOpenJDK\\jdk-11.0.11.9-hotspot\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Python39\\Scripts;C:\\Program Files\\Git\\cmd;C:\\Program Files\\dotnet\\;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\chris\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Python39\\Scripts;C:\\Users\\chris\\AppData\\Local\\GitHubDesktop\\bin", "PUBLIC=C:\\Users\\Public", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "OS=Windows_NT", "JAVA_HOME=C:\\Program Files (x86)\\AdoptOpenJDK\\jdk-8.0.292.10-hotspot\\", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "ProgramData=C:\\ProgramData", "PROCESSOR_ARCHITECTURE=x86", "SESSIONNAME=Console", "USERPROFILE=C:\\Users\\chris", "CommonProgramW6432=C:\\Program Files\\Common Files", "USERNAME=chris", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "ProgramFiles(x86)=C:\\Program Files (x86)", "LOGONSERVER=\\\\DESKTOP-ILUSB6N", "SystemRoot=C:\\Windows")
+    0.045 D "Java detection" progress: 3 / 8
+    0.045 D Env: ignoring "JAVA_HOME" "C:\\Program Files (x86)\\AdoptOpenJDK\\jdk-8.0.292.10-hotspot\\"
+    0.045 D "Running java checker: C:/Program Files/AdoptOpenJDK/jdk-11.0.11.9-hotspot/bin/javaw.exe-jar C:/Users/chris/Desktop/Tech Club/Games/MultiMC (Minecraft)/jars/JavaCheck.jar"
+    0.048 D Env: ignoring "JAVA_HOME" "C:\\Program Files (x86)\\AdoptOpenJDK\\jdk-8.0.292.10-hotspot\\"
+    0.048 D "Running java checker: C:/Program Files (x86)/Java/jre8/bin/javaw.exe-jar C:/Users/chris/Desktop/Tech Club/Games/MultiMC (Minecraft)/jars/JavaCheck.jar"
+    0.049 D Java checker has failed to start.
+    0.049 D Process environment:
+    0.049 D ("TEMP=C:\\Users\\chris\\AppData\\Local\\Temp", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "COMPUTERNAME=DESKTOP-ILUSB6N", "HOMEPATH=\\Users\\chris", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-ILUSB6N", "ALLUSERSPROFILE=C:\\ProgramData", "ProgramW6432=C:\\Program Files", "ComSpec=C:\\Windows\\system32\\cmd.exe", "OneDriveConsumer=C:\\Users\\chris\\OneDrive", "PROCESSOR_LEVEL=23", "PROCESSOR_REVISION=7100", "windir=C:\\Windows", "NUMBER_OF_PROCESSORS=16", "APPDATA=C:\\Users\\chris\\AppData\\Roaming", "TMP=C:\\Users\\chris\\AppData\\Local\\Temp", "=::=::\\", "ProgramFiles=C:\\Program Files (x86)", "SystemDrive=C:", "LOCALAPPDATA=C:\\Users\\chris\\AppData\\Local", "USERDOMAIN=DESKTOP-ILUSB6N", "QtMsBuild=C:\\Users\\chris\\AppData\\Local\\QtMsBuild", "PROCESSOR_ARCHITEW6432=AMD64", "OneDrive=C:\\Users\\chris\\OneDrive", "HOMEDRIVE=C:", "PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD", "Path=C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\AdoptOpenJDK\\jdk-8.0.292.10-hotspot\\bin;C:\\Program Files\\AdoptOpenJDK\\jdk-11.0.11.9-hotspot\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Python39\\Scripts;C:\\Program Files\\Git\\cmd;C:\\Program Files\\dotnet\\;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\chris\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Python39\\Scripts;C:\\Users\\chris\\AppData\\Local\\GitHubDesktop\\bin", "PUBLIC=C:\\Users\\Public", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "OS=Windows_NT", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "ProgramData=C:\\ProgramData", "PROCESSOR_ARCHITECTURE=x86", "SESSIONNAME=Console", "USERPROFILE=C:\\Users\\chris", "USERNAME=chris", "CommonProgramW6432=C:\\Program Files\\Common Files", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "ProgramFiles(x86)=C:\\Program Files (x86)", "LOGONSERVER=\\\\DESKTOP-ILUSB6N", "SystemRoot=C:\\Windows")
+    0.049 D Native environment:
+    0.049 D ("TEMP=C:\\Users\\chris\\AppData\\Local\\Temp", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "COMPUTERNAME=DESKTOP-ILUSB6N", "HOMEPATH=\\Users\\chris", "ALLUSERSPROFILE=C:\\ProgramData", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-ILUSB6N", "ProgramW6432=C:\\Program Files", "ComSpec=C:\\Windows\\system32\\cmd.exe", "OneDriveConsumer=C:\\Users\\chris\\OneDrive", "PROCESSOR_LEVEL=23", "PROCESSOR_REVISION=7100", "windir=C:\\Windows", "NUMBER_OF_PROCESSORS=16", "APPDATA=C:\\Users\\chris\\AppData\\Roaming", "TMP=C:\\Users\\chris\\AppData\\Local\\Temp", "=::=::\\", "ProgramFiles=C:\\Program Files (x86)", "SystemDrive=C:", "LOCALAPPDATA=C:\\Users\\chris\\AppData\\Local", "USERDOMAIN=DESKTOP-ILUSB6N", "QtMsBuild=C:\\Users\\chris\\AppData\\Local\\QtMsBuild", "PROCESSOR_ARCHITEW6432=AMD64", "OneDrive=C:\\Users\\chris\\OneDrive", "HOMEDRIVE=C:", "PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD", "Path=C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\AdoptOpenJDK\\jdk-8.0.292.10-hotspot\\bin;C:\\Program Files\\AdoptOpenJDK\\jdk-11.0.11.9-hotspot\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Python39\\Scripts;C:\\Program Files\\Git\\cmd;C:\\Program Files\\dotnet\\;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\chris\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Python39\\Scripts;C:\\Users\\chris\\AppData\\Local\\GitHubDesktop\\bin", "PUBLIC=C:\\Users\\Public", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "OS=Windows_NT", "JAVA_HOME=C:\\Program Files (x86)\\AdoptOpenJDK\\jdk-8.0.292.10-hotspot\\", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "ProgramData=C:\\ProgramData", "PROCESSOR_ARCHITECTURE=x86", "SESSIONNAME=Console", "USERPROFILE=C:\\Users\\chris", "CommonProgramW6432=C:\\Program Files\\Common Files", "USERNAME=chris", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "ProgramFiles(x86)=C:\\Program Files (x86)", "LOGONSERVER=\\\\DESKTOP-ILUSB6N", "SystemRoot=C:\\Windows")
+    0.049 D "Java detection" progress: 4 / 8
+    0.049 D Env: ignoring "JAVA_HOME" "C:\\Program Files (x86)\\AdoptOpenJDK\\jdk-8.0.292.10-hotspot\\"
+    0.049 D "Running java checker: C:/Program Files (x86)/Java/jre7/bin/javaw.exe-jar C:/Users/chris/Desktop/Tech Club/Games/MultiMC (Minecraft)/jars/JavaCheck.jar"
+    0.049 D Java checker has failed to start.
+    0.049 D Process environment:
+    0.049 D ("TEMP=C:\\Users\\chris\\AppData\\Local\\Temp", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "COMPUTERNAME=DESKTOP-ILUSB6N", "HOMEPATH=\\Users\\chris", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-ILUSB6N", "ALLUSERSPROFILE=C:\\ProgramData", "ProgramW6432=C:\\Program Files", "ComSpec=C:\\Windows\\system32\\cmd.exe", "OneDriveConsumer=C:\\Users\\chris\\OneDrive", "PROCESSOR_LEVEL=23", "PROCESSOR_REVISION=7100", "windir=C:\\Windows", "NUMBER_OF_PROCESSORS=16", "APPDATA=C:\\Users\\chris\\AppData\\Roaming", "TMP=C:\\Users\\chris\\AppData\\Local\\Temp", "=::=::\\", "ProgramFiles=C:\\Program Files (x86)", "SystemDrive=C:", "LOCALAPPDATA=C:\\Users\\chris\\AppData\\Local", "USERDOMAIN=DESKTOP-ILUSB6N", "QtMsBuild=C:\\Users\\chris\\AppData\\Local\\QtMsBuild", "PROCESSOR_ARCHITEW6432=AMD64", "OneDrive=C:\\Users\\chris\\OneDrive", "HOMEDRIVE=C:", "PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD", "Path=C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\AdoptOpenJDK\\jdk-8.0.292.10-hotspot\\bin;C:\\Program Files\\AdoptOpenJDK\\jdk-11.0.11.9-hotspot\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Python39\\Scripts;C:\\Program Files\\Git\\cmd;C:\\Program Files\\dotnet\\;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\chris\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Python39\\Scripts;C:\\Users\\chris\\AppData\\Local\\GitHubDesktop\\bin", "PUBLIC=C:\\Users\\Public", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "OS=Windows_NT", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "ProgramData=C:\\ProgramData", "PROCESSOR_ARCHITECTURE=x86", "SESSIONNAME=Console", "USERPROFILE=C:\\Users\\chris", "USERNAME=chris", "CommonProgramW6432=C:\\Program Files\\Common Files", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "ProgramFiles(x86)=C:\\Program Files (x86)", "LOGONSERVER=\\\\DESKTOP-ILUSB6N", "SystemRoot=C:\\Windows")
+    0.049 D Native environment:
+    0.049 D ("TEMP=C:\\Users\\chris\\AppData\\Local\\Temp", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "COMPUTERNAME=DESKTOP-ILUSB6N", "HOMEPATH=\\Users\\chris", "ALLUSERSPROFILE=C:\\ProgramData", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-ILUSB6N", "ProgramW6432=C:\\Program Files", "ComSpec=C:\\Windows\\system32\\cmd.exe", "OneDriveConsumer=C:\\Users\\chris\\OneDrive", "PROCESSOR_LEVEL=23", "PROCESSOR_REVISION=7100", "windir=C:\\Windows", "NUMBER_OF_PROCESSORS=16", "APPDATA=C:\\Users\\chris\\AppData\\Roaming", "TMP=C:\\Users\\chris\\AppData\\Local\\Temp", "=::=::\\", "ProgramFiles=C:\\Program Files (x86)", "SystemDrive=C:", "LOCALAPPDATA=C:\\Users\\chris\\AppData\\Local", "USERDOMAIN=DESKTOP-ILUSB6N", "QtMsBuild=C:\\Users\\chris\\AppData\\Local\\QtMsBuild", "PROCESSOR_ARCHITEW6432=AMD64", "OneDrive=C:\\Users\\chris\\OneDrive", "HOMEDRIVE=C:", "PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD", "Path=C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\AdoptOpenJDK\\jdk-8.0.292.10-hotspot\\bin;C:\\Program Files\\AdoptOpenJDK\\jdk-11.0.11.9-hotspot\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Python39\\Scripts;C:\\Program Files\\Git\\cmd;C:\\Program Files\\dotnet\\;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\chris\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Python39\\Scripts;C:\\Users\\chris\\AppData\\Local\\GitHubDesktop\\bin", "PUBLIC=C:\\Users\\Public", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "OS=Windows_NT", "JAVA_HOME=C:\\Program Files (x86)\\AdoptOpenJDK\\jdk-8.0.292.10-hotspot\\", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "ProgramData=C:\\ProgramData", "PROCESSOR_ARCHITECTURE=x86", "SESSIONNAME=Console", "USERPROFILE=C:\\Users\\chris", "CommonProgramW6432=C:\\Program Files\\Common Files", "USERNAME=chris", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "ProgramFiles(x86)=C:\\Program Files (x86)", "LOGONSERVER=\\\\DESKTOP-ILUSB6N", "SystemRoot=C:\\Windows")
+    0.049 D "Java detection" progress: 5 / 8
+    0.049 D Env: ignoring "JAVA_HOME" "C:\\Program Files (x86)\\AdoptOpenJDK\\jdk-8.0.292.10-hotspot\\"
+    0.049 D "Running java checker: C:/Program Files (x86)/Java/jre6/bin/javaw.exe-jar C:/Users/chris/Desktop/Tech Club/Games/MultiMC (Minecraft)/jars/JavaCheck.jar"
+    0.050 D Java checker has failed to start.
+    0.050 D Process environment:
+    0.050 D ("TEMP=C:\\Users\\chris\\AppData\\Local\\Temp", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "COMPUTERNAME=DESKTOP-ILUSB6N", "HOMEPATH=\\Users\\chris", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-ILUSB6N", "ALLUSERSPROFILE=C:\\ProgramData", "ProgramW6432=C:\\Program Files", "ComSpec=C:\\Windows\\system32\\cmd.exe", "OneDriveConsumer=C:\\Users\\chris\\OneDrive", "PROCESSOR_LEVEL=23", "PROCESSOR_REVISION=7100", "windir=C:\\Windows", "NUMBER_OF_PROCESSORS=16", "APPDATA=C:\\Users\\chris\\AppData\\Roaming", "TMP=C:\\Users\\chris\\AppData\\Local\\Temp", "=::=::\\", "ProgramFiles=C:\\Program Files (x86)", "SystemDrive=C:", "LOCALAPPDATA=C:\\Users\\chris\\AppData\\Local", "USERDOMAIN=DESKTOP-ILUSB6N", "QtMsBuild=C:\\Users\\chris\\AppData\\Local\\QtMsBuild", "PROCESSOR_ARCHITEW6432=AMD64", "OneDrive=C:\\Users\\chris\\OneDrive", "HOMEDRIVE=C:", "PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD", "Path=C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\AdoptOpenJDK\\jdk-8.0.292.10-hotspot\\bin;C:\\Program Files\\AdoptOpenJDK\\jdk-11.0.11.9-hotspot\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Python39\\Scripts;C:\\Program Files\\Git\\cmd;C:\\Program Files\\dotnet\\;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\chris\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Python39\\Scripts;C:\\Users\\chris\\AppData\\Local\\GitHubDesktop\\bin", "PUBLIC=C:\\Users\\Public", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "OS=Windows_NT", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "ProgramData=C:\\ProgramData", "PROCESSOR_ARCHITECTURE=x86", "SESSIONNAME=Console", "USERPROFILE=C:\\Users\\chris", "USERNAME=chris", "CommonProgramW6432=C:\\Program Files\\Common Files", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "ProgramFiles(x86)=C:\\Program Files (x86)", "LOGONSERVER=\\\\DESKTOP-ILUSB6N", "SystemRoot=C:\\Windows")
+    0.050 D Native environment:
+    0.050 D ("TEMP=C:\\Users\\chris\\AppData\\Local\\Temp", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "COMPUTERNAME=DESKTOP-ILUSB6N", "HOMEPATH=\\Users\\chris", "ALLUSERSPROFILE=C:\\ProgramData", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-ILUSB6N", "ProgramW6432=C:\\Program Files", "ComSpec=C:\\Windows\\system32\\cmd.exe", "OneDriveConsumer=C:\\Users\\chris\\OneDrive", "PROCESSOR_LEVEL=23", "PROCESSOR_REVISION=7100", "windir=C:\\Windows", "NUMBER_OF_PROCESSORS=16", "APPDATA=C:\\Users\\chris\\AppData\\Roaming", "TMP=C:\\Users\\chris\\AppData\\Local\\Temp", "=::=::\\", "ProgramFiles=C:\\Program Files (x86)", "SystemDrive=C:", "LOCALAPPDATA=C:\\Users\\chris\\AppData\\Local", "USERDOMAIN=DESKTOP-ILUSB6N", "QtMsBuild=C:\\Users\\chris\\AppData\\Local\\QtMsBuild", "PROCESSOR_ARCHITEW6432=AMD64", "OneDrive=C:\\Users\\chris\\OneDrive", "HOMEDRIVE=C:", "PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD", "Path=C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\AdoptOpenJDK\\jdk-8.0.292.10-hotspot\\bin;C:\\Program Files\\AdoptOpenJDK\\jdk-11.0.11.9-hotspot\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Python39\\Scripts;C:\\Program Files\\Git\\cmd;C:\\Program Files\\dotnet\\;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\chris\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Python39\\Scripts;C:\\Users\\chris\\AppData\\Local\\GitHubDesktop\\bin", "PUBLIC=C:\\Users\\Public", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "OS=Windows_NT", "JAVA_HOME=C:\\Program Files (x86)\\AdoptOpenJDK\\jdk-8.0.292.10-hotspot\\", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "ProgramData=C:\\ProgramData", "PROCESSOR_ARCHITECTURE=x86", "SESSIONNAME=Console", "USERPROFILE=C:\\Users\\chris", "CommonProgramW6432=C:\\Program Files\\Common Files", "USERNAME=chris", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules", "ProgramFiles(x86)=C:\\Program Files (x86)", "LOGONSERVER=\\\\DESKTOP-ILUSB6N", "SystemRoot=C:\\Windows")
+    0.050 D "Java detection" progress: 6 / 8
+    0.050 D Env: ignoring "JAVA_HOME" "C:\\Program Files (x86)\\AdoptOpenJDK\\jdk-8.0.292.10-hotspot\\"
+    0.050 D "Running java checker: javaw-jar C:/Users/chris/Desktop/Tech Club/Games/MultiMC (Minecraft)/jars/JavaCheck.jar"
+    0.085 D Downloading  "https://files.multimc.org/translations/index_v2.json"
+    0.482 D Dir changed: "C:/Users/chris/Desktop/Tech Club/Games/MultiMC (Minecraft)/translations"
+    0.483 D STDOUT "os.arch=amd64\njava.version=11.0.11\njava.vendor=AdoptOpenJDK\n"
+    0.483 W STDERR ""
+    0.483 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+    0.483 D Java checker succeeded.
+    0.483 D "Java detection" progress: 7 / 8
+    0.484 D STDOUT "os.arch=x86\njava.version=1.8.0_311\njava.vendor=Oracle Corporation\n"
+    0.484 W STDERR ""
+    0.484 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+    0.484 D Java checker succeeded.
+    0.484 D "Java detection" progress: 8 / 8
+    0.484 D Task "JavaCheckerJob(0x329f358)" succeeded
+    0.484 D Found the following valid Java installations:
+    0.484 D   "11.0.11" "64" "C:/Program Files/AdoptOpenJDK/jdk-11.0.11.9-hotspot/bin/javaw.exe"
+    0.484 D   "1.8.0_311" "32" "javaw"
+    0.485 D Task "JavaListLoadTask(0x329f2e8)" succeeded
+    0.487 D Env: ignoring "JAVA_HOME" "C:\\Program Files (x86)\\AdoptOpenJDK\\jdk-8.0.292.10-hotspot\\"
+    0.487 D "Running java checker: C:/Program Files/AdoptOpenJDK/jdk-11.0.11.9-hotspot/bin/javaw.exe-Xms512m -Xmx1024m -jar C:/Users/chris/Desktop/Tech Club/Games/MultiMC (Minecraft)/jars/JavaCheck.jar"
+    0.582 D STDOUT "os.arch=amd64\njava.version=11.0.11\njava.vendor=AdoptOpenJDK\n"
+    0.582 W STDERR ""
+    0.582 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+    0.582 D Java checker succeeded.
+    1.027 D Download succeeded: "https://files.multimc.org/translations/index_v2.json"
+    1.028 D Task "NetJob(Translations Index)" succeeded
+    1.028 D Got translations index!
+    1.028 D Dir changed: "C:/Users/chris/Desktop/Tech Club/Games/MultiMC (Minecraft)/translations"
+    1.034 D Dir changed: "C:/Users/chris/Desktop/Tech Club/Games/MultiMC (Minecraft)/translations"
+    2.624 D Env: ignoring "JAVA_HOME" "C:\\Program Files (x86)\\AdoptOpenJDK\\jdk-8.0.292.10-hotspot\\"
+    2.624 D "Running java checker: javaw-Xms512m -Xmx1024m -jar C:/Users/chris/Desktop/Tech Club/Games/MultiMC (Minecraft)/jars/JavaCheck.jar"
+    2.693 D STDOUT "os.arch=x86\njava.version=1.8.0_311\njava.vendor=Oracle Corporation\n"
+    2.693 W STDERR ""
+    2.693 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+    2.693 D Java checker succeeded.
+    5.496 D Analytics enabled by user.
+    5.501 D Wizard result = 1
+    5.529 W QMetaObject::connectSlotsByName: No matching signal for on_actionViewSelectedModsFolder_triggered()
+    5.529 W QMetaObject::connectSlotsByName: No matching signal for on_actionInstanceSettings_triggered()
+    5.532 D Reloading news.
+    5.532 D Task "NetJob(News RSS Feed)" starting for the first time
+    5.532 D Checking for updates.
+    5.532 D Channel list isn't loaded yet. Loading channel list and deferring update check.
+    5.532 D Loading the channel list.
+    5.532 D Task "NetJob(Update System Channel List)" starting for the first time
+    5.532 D Task "NetJob(Checking for notifications)" starting for the first time
+    5.542 D Viewport size "800x600"
+    5.542 D RAM size is 16268 MB
+    5.542 D [Analytics] "ScreenView: Main Window"
+    5.542 D <> Main window shown.
+    5.555 D Downloading  "https://multimc.org/rss.xml"
+    5.555 D Downloading  "https://files.multimc.org/update/win32/channels.json"
+    5.556 D Downloading  "https://files.multimc.org/notifications.json"
+    5.721 D Download succeeded: "https://files.multimc.org/update/win32/channels.json"
+    5.721 D Task "NetJob(Update System Channel List)" succeeded
+    5.721 D Successfully loaded UpdateChecker channel list.
+    5.721 D Checking for updates.
+    5.722 D channelEntry =  "stable"
+    5.722 D channelEntry =  "develop"
+    5.722 D is intended update channel:  "develop"
+    5.722 D is current update channel:  "develop"
+    5.722 D channelEntry =  "main"
+    5.722 D m_repoUrl =  "http://files.multimc.org/update/win32/develop/"
+    5.722 D Task "NetJob(GoUpdate Repository Index)" starting for the first time
+    5.722 D Downloading  "http://files.multimc.org/update/win32/develop/index.json"
+    5.885 D Location header: QUrl("https://files.multimc.org/update/win32/develop/index.json")
+    5.886 D Following redirect to  "https://files.multimc.org/update/win32/develop/index.json"
+    5.886 D Downloading  "https://files.multimc.org/update/win32/develop/index.json"
+    5.886 D Download redirected: "https://files.multimc.org/update/win32/develop/index.json"
+    5.955 D Download succeeded: "https://files.multimc.org/notifications.json"
+    5.956 D Task "NetJob(Checking for notifications)" succeeded
+    6.171 D Download succeeded: "https://multimc.org/rss.xml"
+    6.171 D Task "NetJob(News RSS Feed)" succeeded
+    6.171 D Finished loading RSS feed.
+    6.172 D Loaded news entry "0.7.0 - The forever develop release"
+    6.172 D Loaded news entry "0.6.16 - The Modpack Apocalypse"
+    6.172 D Loaded news entry "Migration to Microsoft account is required"
+    6.172 D Loaded news entry "IMPORTANT MESSAGE - Security vulnerability in Minecraft"
+    6.172 D Loaded news entry "0.6.14 - Microsoft account refinement, Forge 1.17+ and other fixes"
+    6.172 D Loaded news entry "0.6.13 - Microsoft account integration"
+    6.172 D Loaded news entry "0.6.12 - Spring cleaning and modpack platforms"
+    6.172 D Loaded news entry "About Microsoft accounts"
+    6.172 D Loaded news entry "0.6.7 - UI fixes and important metadata news - update required!"
+    6.172 D Loaded news entry "0.6.5 - translation UI and legacy sound fixes"
+    6.172 D Loaded news entry "0.6.4 - better translation workflow and new FTB API location"
+    6.172 D Loaded news entry "0.6.3 - The Big Sync"
+    6.172 D Loaded news entry "0.6.2 Released!"
+    6.172 D Loaded news entry "0.6.1 Released!"
+    6.173 D Loaded news entry "0.6.0 Released!"
+    6.173 D Loaded news entry "Introducing the Archive"
+    6.173 D Loaded news entry "0.5.1 - Bugfixes."
+    6.173 D Loaded news entry "0.5.0 - Running multiple instances at the same time!"
+    6.173 D Loaded news entry "0.4.11 - OSX 10.7 fix and workaround for Minecraft 1.9 compatibility"
+    6.173 D Loaded news entry "0.4.10 - Another wifi fix"
+    6.173 D Loaded news entry "0.4.9 - the Windows wifi fix."
+    6.173 D Loaded news entry "0.4.8 - Worlds and more."
+    6.173 D Loaded news entry "0.4.7 - What 0.4.6 should have been."
+    6.173 D Loaded news entry "0.4.6 - Bug fixes and improvements!"
+    6.173 D Loaded news entry "0.4.5 - Translations, Themes, and Technic"
+    6.173 D Loaded news entry "0.4 out - Jar mods, UI changes, and more!"
+    6.173 D Loaded news entry "Introducing QuickMods - A better way to install mods"
+    6.173 D Loaded news entry "Support us on Patreon!"
+    6.173 D Loaded news entry "Heartbleed Vulnerability Update (fixed!)"
+    6.173 D Loaded news entry "Announcing MultiMC 6"
+    6.173 D Loaded news entry "0.3 - The big feature update."
+    6.173 D Loaded news entry "First official MultiMC 5 release!"
+    6.173 D Loaded news entry "MultiMC Status Update"
+    6.173 D News loading succeeded.
+    6.248 D Download succeeded: "https://files.multimc.org/update/win32/develop/index.json"
+    6.249 D Task "NetJob(GoUpdate Repository Index)" succeeded
+    6.249 D Finished downloading repo index. Checking for new versions.
+    6.249 D Processing repository version list.
+    6.250 D Found newer version with ID 3857
+    6.250 D Task "NetJob(Changelog)" starting for the first time
+    6.257 D Downloading  "https://api.github.com/repos/MultiMC/Launcher/compare/33a8b916a1baa46026681101ab870cb0a0684fa5...develop"
+    6.881 D Download succeeded: "https://api.github.com/repos/MultiMC/Launcher/compare/33a8b916a1baa46026681101ab870cb0a0684fa5...develop"
+    6.881 D Task "NetJob(Changelog)" succeeded
+    7.502 D Update will be installed later.
+    9.109 D Task "NetJob(Download of meta file net.minecraft/index.json)" starting for the first time
+    9.153 D Downloading  "https://meta.multimc.org/v1/net.minecraft/index.json"
+   10.105 D Download succeeded: "https://meta.multimc.org/v1/net.minecraft/index.json"
+   10.105 D Task "NetJob(Download of meta file net.minecraft/index.json)" succeeded
