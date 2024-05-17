@@ -1,0 +1,36 @@
+{
+    "id": "traits",
+    "list": [
+        {
+            "id": "sonic",
+            "icon": "iconVeteran",
+            "birth": 100.0,
+            "speed" : 1000,
+            "damage" : 1000
+        },
+        {
+            "id": "veteran",
+            "icon": "iconVeteran",
+            "birth": 100.0,
+            "inherit": 0.0,
+            "opposite": "",
+            "oppositeArr": [],
+            "honor": 0.0,
+            "rationality": 0.0,
+            "zeal": 0.0,
+            "ambition": 0.0,
+            "greed": 0.0,
+            "damage": 3,
+            "speed": 0.0,
+            "health": 30,
+            "armor": 1,
+            "diplomacy": 1,
+            "dodge": 2,
+            "accuracy": 0,
+            "sameTraitMod": 5,
+            "oppositeTraitMod": 0,
+            "group": 0,
+            "type": 0
+        }
+    ]
+}
