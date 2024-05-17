@@ -1,0 +1,49 @@
+Initialize engine version: 5.3.2p3 (b6c1a63227dc)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon RX 5700 XT (ID=0x731f)
+    Vendor:   ATI
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\chris\Desktop\Tech Club\Games\Sort the Court\SortTheCourt_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\chris\Desktop\Tech Club\Games\Sort the Court\SortTheCourt_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\chris\Desktop\Tech Club\Games\Sort the Court\SortTheCourt_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\chris\Desktop\Tech Club\Games\Sort the Court\SortTheCourt_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\chris\Desktop\Tech Club\Games\Sort the Court\SortTheCourt_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\chris\Desktop\Tech Club\Games\Sort the Court\SortTheCourt_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\chris\Desktop\Tech Club\Games\Sort the Court\SortTheCourt_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\chris\Desktop\Tech Club\Games\Sort the Court\SortTheCourt_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\chris\Desktop\Tech Club\Games\Sort the Court\SortTheCourt_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\chris\Desktop\Tech Club\Games\Sort the Court\SortTheCourt_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.036 seconds
+Platform assembly: C:\Users\chris\Desktop\Tech Club\Games\Sort the Court\SortTheCourt_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\chris\Desktop\Tech Club\Games\Sort the Court\SortTheCourt_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.547900 ms
+InControl (version 1.6.8 build 8730)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 367)
+
+ControlType changed to Mouse
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 5a60 -> priority: 1 
+  Thread -> id: 2d0c -> priority: 1 
+  Thread -> id: 2b5c -> priority: 1 
+  Thread -> id: 3da8 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.154000 ms
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 4429.
+Total: 2.160000 ms (FindLiveObjects: 0.132800 ms CreateObjectMapping: 0.101500 ms MarkObjects: 1.884600 ms  DeleteObjects: 0.040100 ms)
+
